@@ -26,4 +26,3 @@ function calcularMediaENotas(notas, faltas) {
   console.log('Notas:', notasAluno1);
   console.log('Faltas:', faltasAluno1);
   console.log('Resultado:', calcularMediaENotas(notasAluno1, faltasAluno1)); // Saída esperada: { media: '7.60', situacao: 'aprovado' }
-  

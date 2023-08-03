@@ -14,3 +14,4 @@ function diaSemana(dia) {
   }
   
   console.log(diaSemana(4));
+  
